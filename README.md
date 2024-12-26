@@ -41,7 +41,7 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in//"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Freachy-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/hardik-arora-a34143298/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Hardik-blue?style=flat-square&logo=linkedin"></a>
 
 <a href="mailto:hardikarora483@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Hardik.email%40example.com-blue?style=flat-square&logo=gmail"></a>
 
