@@ -1,45 +1,52 @@
-# 👋 Hi, I’m @hardik121121
+### Hi there 👋  
+<h2> I'm Hardik Arora</h2>
 
-Welcome to my GitHub profile! I'm a passionate software developer and AI enthusiast on a continuous journey to learn, build, and collaborate. Here's a bit about me:
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-## 👀 I’m interested in:
-- **Generative AI**: Leveraging AI to create innovative solutions in fields like marketing, health & wellness, and personalized content.
-- **Web Development**: Building dynamic, user-centric websites using modern technologies and frameworks.
-- **Data Structures & Algorithms**: Sharpening my problem-solving skills with Java, especially through recursion and DSA.
-- **Machine Learning & AI Models**: Working on AI-driven projects, such as health advisors, predictive models, and content generators.
+<h3> 👨🏻•💻 About Me </h3>
 
-## 🌱 I’m currently learning:
-- **Deep Dive into Web Development**: Mastering HTML, CSS, JavaScript, ReactJS, and NodeJS to build scalable, dynamic web applications.
-- **Advanced Data Structures & Algorithms**: Solving complex coding problems, especially focusing on recursion, linked lists, and matrix manipulation.
-- **Generative AI for Customized Marketing Content**: Fine-tuning pre-trained models like GPT-4 for generating personalized marketing content such as social media posts, ads, and more.
+- 🤔 &nbsp; Exploring cutting-edge **AI/ML and Data-Science**, **Web Development**, and **Data Structures & Algorithms** to solve real-world challenges.
+- 🎓 &nbsp; Studying and experimenting with **Computer Science** concepts while working on personal projects.
+- 🌱 &nbsp; Currently learning **Data-Science & Generative AI**, **Advanced DSA**, and mastering **Web Development** skills.
+- ✍️ &nbsp; Passionate about building scalable, interactive websites and AI-driven solutions, especially in **health & wellness** and **personalized marketing**.
 
-## 💞️ I’m looking to collaborate on:
-- **AI Projects**: Particularly in generative AI, voice synthesis, and personalized content creation.
-- **Hackathons**: I'm actively involved in various hackathons, like the Accenture Innovation Challenge 2024, and love collaborating on innovative ideas.
-- **Open-Source Projects**: I enjoy contributing to the tech community and would love to collaborate on open-source projects that make a difference.
+<h3>🛠 Tech Stack</h3>
 
-## 📫 How to reach me:
-- **LinkedIn**: [Hardik Arora on LinkedIn](www.linkedin.com/in/hardik-arora-a34143298)
-- **Email**: [hardikarora483@gmail.com](mailto:hardikarora483@gmail.com)
+- 💻 &nbsp; Java | Python | JavaScript | C++ | MySQL
+- 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS | NodeJS | Bootstrap | Tailwind CSS
+- 🔧 &nbsp; Git | GitHub | Docker | AWS | Firebase | Flask
 
-## 😄 Pronouns: He/Him
+<h3>🛠 To Learn</h3>
+- 🔧 &nbsp; **Deep Learning**, **Cloud Computing**, **Serverless Architecture**, **DevOps**, **AI-based Voice Synthesis**
 
-## ⚡ Fun fact:
-- I believe in **learning by doing**. Every project I take on, from creating dynamic web pages to AI models, is a step forward in my learning journey, and I enjoy documenting and sharing my progress along the way.
+<hr>
 
----
+<br/><br/>
 
-I’m always open to collaborating, learning, and growing with the community! Let’s build something amazing together. ✨
+[![Hardik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hardik121121&show_icons=true)](https://github.com/hardik121121)
 
-<!---
-hardik121121/hardik121121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-```
+<br/>
 
-This README reflects your interests, current projects, and skills in a professional manner while encouraging collaboration. You can adjust the links and other details as needed.
+<img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
 
-<!---
-hardik121121/hardik121121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hardik121121&show_icons=true)
+
+<br><br>
+
+<hr>
+
+<h3> 🤝🏻 Connect with Me </h3>
+
+<br>
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in//"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Freachy-blue?style=flat-square&logo=linkedin"></a>
+
+<a href="mailto:hardikarora483@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Hardik.email%40example.com-blue?style=flat-square&logo=gmail"></a>
+
+</p>
+
+![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=hardik121121.hardik121121)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
+
+<hr>
