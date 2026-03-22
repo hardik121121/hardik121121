@@ -111,7 +111,7 @@
 ## Legacy Work
 
 **[Material Lab](https://www.materiallab.io/)**
-*Product studio building AI-powered web apps and client platforms*
+*AI-focused product studio — custom workflows, apps, automation, and dashboards that move real metrics; ships only when output links to outcome*
 - 🌐 **[materiallab.io](https://www.materiallab.io/)** — studio's own website; built for client credibility and proof of work
 - 🚛 **[jbsingh.com](https://jbsingh.com)** — professional web presence for a freight & logistics client
 - ⚡ **[fastbid24.com](https://fastbid24.com)** — landing page for a construction-tech startup automating material estimation via blueprint-to-cost AI agent
