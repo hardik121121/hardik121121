@@ -111,12 +111,12 @@
 ## Legacy Work
 
 **@ Material Lab** — client & product deployments
-- 🌐 **[materiallab.io](https://www.materiallab.io/)** — designed the studio's own website; client-facing presence built for credibility and proof of work
-- 🚛 **[jbsingh.com](https://jbsingh.com)** — logistics & cargo service provider; built a clean, professional web presence for a freight and transport client
-- ⚡ **[fastbid24.com](https://fastbid24.com)** — landing page for a construction-tech startup; the product automates material estimation (doors, windows) from blueprint uploads through to cost calculation via an AI agent
-- 🎓 **[perhitsiksha.org](https://perhitsiksha.org)** — NGO website redesign; rebuilt key sections and integrated Facebook Graph API + GitHub Actions to auto-sync the client's Facebook event posts onto their landing page
-- 🎬 **[Hendrix](https://hendrix.materiallab.io/)** — long-form to short-video AI platform based on the [HIVE research paper](https://arxiv.org/pdf/2507.02790); built the ASR and speaker diarization pipelines — audio extraction from long-form video, transcription, and speaker-attributed segmentation
-- 💪 **[Gymbo](https://gymbo.materiallab.io/login)** — white-label PWA punch tracker for gym trainers; OTP-based auth via Twilio + Supabase, and first hands-on use of OpenClaw APIs in a production workflow
+- 🌐 **[materiallab.io](https://www.materiallab.io/)** — studio's own website; built for client credibility and proof of work
+- 🚛 **[jbsingh.com](https://jbsingh.com)** — professional web presence for a freight & logistics client
+- ⚡ **[fastbid24.com](https://fastbid24.com)** — landing page for a construction-tech startup automating material estimation via blueprint-to-cost AI agent
+- 🎓 **[perhitsiksha.org](https://perhitsiksha.org)** — NGO website redesign + Facebook Graph API & GitHub Actions pipeline to auto-sync events to the landing page
+- 🎬 **[Hendrix](https://hendrix.materiallab.io/)** — long-form to short-video AI platform ([HIVE paper](https://arxiv.org/pdf/2507.02790)); built ASR & speaker diarization pipelines
+- 💪 **[Gymbo](https://gymbo.materiallab.io/login)** — PWA punch tracker for gym trainers; OTP auth via Twilio + Supabase
 
 **@ YantraPragya**
 - 🦷 **[Dental AI](https://github.com/hardik121121/YantraPragya_Github_Workspace)** — U-Net model detecting gum infections from clinical images — TensorFlow + OpenCV
