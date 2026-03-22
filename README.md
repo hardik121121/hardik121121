@@ -1,4 +1,4 @@
-# Hi, I'm Hardik 👋
+# Hi, I'm **[Hardik Arora](https://hardikarora.me)** 👋
 
 📍 **Agra, India** | 🤖 **AI Builder · Vibe Coder** | 🚀 **Software Engineer Intern @[Watermelon Software Inc](https://www.watermelon.us/)**
 
