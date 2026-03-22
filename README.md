@@ -110,7 +110,8 @@
 
 ## Legacy Work
 
-**@ [Material Lab](https://www.materiallab.io/)** — product studio building AI-powered web apps and client platforms
+**[Material Lab](https://www.materiallab.io/)**
+*Product studio building AI-powered web apps and client platforms*
 - 🌐 **[materiallab.io](https://www.materiallab.io/)** — studio's own website; built for client credibility and proof of work
 - 🚛 **[jbsingh.com](https://jbsingh.com)** — professional web presence for a freight & logistics client
 - ⚡ **[fastbid24.com](https://fastbid24.com)** — landing page for a construction-tech startup automating material estimation via blueprint-to-cost AI agent
@@ -118,7 +119,8 @@
 - 🎬 **[Hendrix](https://hendrix.materiallab.io/)** — long-form to short-video AI platform ([HIVE paper](https://arxiv.org/pdf/2507.02790)); built ASR & speaker diarization pipelines
 - 💪 **[Gymbo](https://gymbo.materiallab.io/login)** — PWA punch tracker for gym trainers; OTP auth via Twilio + Supabase
 
-**@ [YantraPragya](https://www.yantrapragya.com/)** — AI solutions for healthcare and industrial automation
+**[YantraPragya](https://www.yantrapragya.com/)**
+*AI solutions for healthcare and industrial automation*
 - 🦷 **[Dental AI](https://github.com/hardik121121/YantraPragya_Github_Workspace)** — U-Net model detecting gum infections from clinical images — TensorFlow + OpenCV
 - 🧬 **[Medical Parser](https://github.com/hardik121121/YantraPragya_Github_Workspace)** — automated CBC/LFT extraction from PDFs to structured JSON
 
