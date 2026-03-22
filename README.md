@@ -1,6 +1,6 @@
 # Hi, I'm Hardik 👋
 
-📍 **Agra, India** | 🤖 **AI Builder · Vibe Coder*** | 🚀 **Software Engineer Intern @[Watermelon Software Inc](https://www.watermelon.us/)**
+📍 **Agra, India** | 🤖 **AI Builder · Vibe Coder** | 🚀 **Software Engineer Intern @[Watermelon Software Inc](https://www.watermelon.us/)**
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
