@@ -1,6 +1,6 @@
 # Hi, I'm Hardik 👋
 
-📍 **Agra, India** | 🤖 **AI Builder · Vibe Coder** | 🚀 **Software Engineer Intern @ Watermelon Software Inc**
+📍 **Agra, India** | 🤖 **AI Builder · Vibe Coder*** | 🚀 **Software Engineer Intern @[Watermelon Software Inc](https://www.watermelon.us/)**
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -19,7 +19,7 @@
 
 ## What I'm Building
 
-**@ [Watermelon Software](https://www.watermelon.us/)** — intelligent software solutions for modern engineering teams (current)
+**@ [Watermelon Software Inc](https://www.watermelon.us/)** — intelligent software solutions for modern engineering teams (current)
 - 🔍 **Production RAG System** — answers queries across 2,257 pages of documentation using hybrid retrieval (Vector + BM25 + RRF), OpenAI embeddings, Pinecone, Cohere reranking, and Groq LLMs — 72% Precision@10 & 82% MRR
 - 🤖 **Conversational SLO Copilot** — analyzes service health, alerts, and incidents to answer reliability queries in natural language; helps engineers diagnose issues faster and track SLO/SLA compliance
 
