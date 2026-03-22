@@ -15,7 +15,7 @@
 
 > I build AI that ships — RAG systems, LLM agents, CV pipelines. Not proof-of-concepts. Things that go to production and stay there.
 
-🌐 **[hardikarora.me](https://hardikarora.me)** — portfolio, 59+ projects and counting.
+🌐 **[hardikarora.me](https://hardikarora.me)** — my corner of the internet. What I've built, what I'm building, and everything in between.
 
 ## What I'm Building
 
@@ -119,8 +119,8 @@
 - 💪 **[Gymbo](https://gymbo.materiallab.io/login)** — white-label PWA punch tracker for gym trainers; Twilio + WhatsApp workflows
 
 **@ YantraPragya**
-- 🦷 **Dental AI** — U-Net model detecting gum infections from clinical images — TensorFlow + OpenCV
-- 🧬 **Medical Parser** — automated CBC/LFT extraction from PDFs to structured JSON
+- 🦷 **[Dental AI](https://github.com/hardik121121/YantraPragya_Github_Workspace)** — U-Net model detecting gum infections from clinical images — TensorFlow + OpenCV
+- 🧬 **[Medical Parser](https://github.com/hardik121121/YantraPragya_Github_Workspace)** — automated CBC/LFT extraction from PDFs to structured JSON
 
 ## GitHub Activity
 
@@ -131,7 +131,7 @@
 - **Living in the AI-native future** — shipping fast, learning faster
 - **Exploring the boundary between AI engineering and SRE** — reliability meets intelligence
 - **Writing occasionally** — sharing learnings on [Medium](https://medium.com/@hardikarora483)
-- **Open to collabs** — internships, interesting problems, half-baked ideas that need productizing
+- **Open to** full-time roles, freelance engagements, and collaborations on interesting problems worth productizing
 
 ## Connect
 
@@ -144,25 +144,12 @@
 
 ---
 
-### Recognition
+### Achievements
 
-- 🥇 **1st Place — Data Dash** (Power BI competition, Tech Navya 2025)
-- 🏆 **InnovateX Hackathon 2024** — Shyam Lal College
-- 🏅 **Flipkart Grid 6.0** — Software Development Track
-- 🎖️ **Accenture Innovator Badge** — Accenture Innovation Challenge
+- 🥇 **Data Dash — Tech Navya 2025** *(Feb 2025)* — Built a Power BI Amazon Sales Dashboard with real-time analytics, inventory forecasting, and shipment tracking
+- 🥉 **Technical Paper Presentation — IBM ICE Day 2024** *(Mar 2024)* — Bronze Medal for presenting Voice Alchemy by AI, exploring AI-driven voice generation
 
 ### Philosophy
 
 > "Working software over everything else."
 > I build tools to solve real problems, then share them. My managers vouch for the rest. 🫡
-
-<details>
-<summary>Random Facts</summary>
-
-- Part AI engineer, part SRE, part vibe-coder
-- Get obsessed turning half-baked ideas into revenue-driving products
-- Gym enthusiast (Gymbo was born from this)
-- From Agra, India — city of the Taj Mahal
-- Still figuring out what's worth writing — but the ideas are brewing
-
-</details>
