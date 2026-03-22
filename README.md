@@ -19,7 +19,7 @@
 
 ## What I'm Building
 
-**@ [Watermelon Software](https://www.watermelon.us/)** (current)
+**@ [Watermelon Software](https://www.watermelon.us/)** — intelligent software solutions for modern engineering teams (current)
 - 🔍 **Production RAG System** — answers queries across 2,257 pages of documentation using hybrid retrieval (Vector + BM25 + RRF), OpenAI embeddings, Pinecone, Cohere reranking, and Groq LLMs — 72% Precision@10 & 82% MRR
 - 🤖 **Conversational SLO Copilot** — analyzes service health, alerts, and incidents to answer reliability queries in natural language; helps engineers diagnose issues faster and track SLO/SLA compliance
 
@@ -110,7 +110,7 @@
 
 ## Legacy Work
 
-**@ [Material Lab](https://www.materiallab.io/)** — client & product deployments
+**@ [Material Lab](https://www.materiallab.io/)** — product studio building AI-powered web apps and client platforms
 - 🌐 **[materiallab.io](https://www.materiallab.io/)** — studio's own website; built for client credibility and proof of work
 - 🚛 **[jbsingh.com](https://jbsingh.com)** — professional web presence for a freight & logistics client
 - ⚡ **[fastbid24.com](https://fastbid24.com)** — landing page for a construction-tech startup automating material estimation via blueprint-to-cost AI agent
@@ -118,7 +118,7 @@
 - 🎬 **[Hendrix](https://hendrix.materiallab.io/)** — long-form to short-video AI platform ([HIVE paper](https://arxiv.org/pdf/2507.02790)); built ASR & speaker diarization pipelines
 - 💪 **[Gymbo](https://gymbo.materiallab.io/login)** — PWA punch tracker for gym trainers; OTP auth via Twilio + Supabase
 
-**@ [YantraPragya](https://www.yantrapragya.com/)**
+**@ [YantraPragya](https://www.yantrapragya.com/)** — AI solutions for healthcare and industrial automation
 - 🦷 **[Dental AI](https://github.com/hardik121121/YantraPragya_Github_Workspace)** — U-Net model detecting gum infections from clinical images — TensorFlow + OpenCV
 - 🧬 **[Medical Parser](https://github.com/hardik121121/YantraPragya_Github_Workspace)** — automated CBC/LFT extraction from PDFs to structured JSON
 
