@@ -20,8 +20,8 @@
 ## What I'm Building
 
 **@ Watermelon Software** (current)
-- 🔍 **Production RAG System** — 2,257 docs, hybrid retrieval (Vector + BM25 + RRF), 72% Precision@10 & 82% MRR
-- 🤖 **Conversational SLO Copilot** — natural language SLO/SLA monitoring for engineers
+- 🔍 **Production RAG System** — answers queries across 2,257 pages of documentation using hybrid retrieval (Vector + BM25 + RRF), OpenAI embeddings, Pinecone, Cohere reranking, and Groq LLMs — 72% Precision@10 & 82% MRR
+- 🤖 **Conversational SLO Copilot** — analyzes service health, alerts, and incidents to answer reliability queries in natural language; helps engineers diagnose issues faster and track SLO/SLA compliance
 
 ## Personal Projects
 
