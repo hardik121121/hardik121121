@@ -21,7 +21,7 @@
 
 **@ [Watermelon Software Inc](https://www.watermelon.us/)** — the world's only AI-driven software reliability platform; zero-code functional & non-functional testing in pre-production, SLO management and predictive remediation in production 
 - 🔍 **Production RAG System** — answers queries across 2,257 pages of documentation using hybrid retrieval (Vector + BM25 + RRF), OpenAI embeddings, Pinecone, Cohere reranking, and Groq LLMs — 72% Precision@10 & 82% MRR
-- 🤖 **Conversational SLO Copilot** — analyzes service health, alerts, and incidents to answer reliability queries in natural language; helps engineers diagnose issues faster and track SLO/SLA compliance
+- 🤖 **Conversational SLO Copilot** *(in progress)* — analyzes service health, alerts, and incidents to answer reliability queries in natural language; helps engineers diagnose issues faster and track SLO/SLA compliance
 
 ## Personal Projects
 
