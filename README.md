@@ -137,7 +137,7 @@
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/-Hardik_Arora-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hardik-arora-a34143298)
+[![LinkedIn](https://img.shields.io/badge/-Hardik_Arora-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hardik-arora-121)
 [![X](https://img.shields.io/badge/-@HardikArora121-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/HardikArora121)
 [![Medium](https://img.shields.io/badge/-@hardikarora483-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@hardikarora483)
 [![Portfolio](https://img.shields.io/badge/-hardikarora.me-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://hardikarora.me)
