@@ -117,7 +117,7 @@
 - ⚡ **[fastbid24.com](https://fastbid24.com)** — landing page for a construction-tech startup automating material estimation via blueprint-to-cost AI agent
 - 🎓 **[perhitsiksha.org](https://perhitsiksha.org)** — Website redesign + Facebook Graph API & GitHub Actions pipeline to auto-sync events to the landing page
 - 🎬 **[Hendrix](https://hendrix.materiallab.io/)** — long-form to short-video AI platform ([HIVE paper](https://arxiv.org/pdf/2507.02790)); built ASR & speaker diarization pipelines
-- 💪 **[Gymbo](https://gymbo.materiallab.io/login)** — PWA punch tracker for gym trainers; OTP auth via Twilio + Supabase
+- 💪 **[Gymbo](https://getgymbo.com/)** — PWA punch tracker for gym trainers; OTP auth via Twilio + Supabase
 
 **[YantraPragya](https://www.yantrapragya.com/)**
 *AI solutions for healthcare and industrial automation*
